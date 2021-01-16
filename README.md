@@ -234,7 +234,7 @@ https://drawingbots.net/
 Why don't you post your sketches on Twitter and/or Instagram and tag [@CreativeCodeBLN](https://twitter.com/CreativeCodeBLN/), [@ProcessingOrg](https://twitter.com/ProcessingOrg) and our friends so we can share them?
 
 #### One artist: Saskia Freeke
-> Daily Artwork every day since 01-01-2015
+"Daily Artwork every day since 01-01-2015"
 
 <https://twitter.com/sasj_nl>
 
@@ -243,6 +243,8 @@ Why don't you post your sketches on Twitter and/or Instagram and tag [@CreativeC
 
 # Thanks!
 
-This list is created and maintained by the [Creative Code Berlin](http://creativecode.berlin/) team as resource for people coming to our bi-monthly meetups. We hope it can be helpful to others as well :)
+This list is created and maintained by [Raphaël de Courville](https://twitter.com/sableRaph) and [Naoto Hieda](https://twitter.com/naoto_hieda) for [Creative Code Berlin](http://creativecode.berlin/) as resource for people coming to our bi-monthly meetups. We hope it can be helpful to others as well :)
 
 If you are looking for a more comprehensive list, check out this [curated list of awesome creative coding resources](https://github.com/terkelg/awesome-creative-coding).
+
+This document is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
