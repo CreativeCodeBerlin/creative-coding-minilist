@@ -13,7 +13,9 @@ There is a rich history of artists using computers as a tool, going back all the
 
 # Why this document?
 
-Getting started in any new field can feel overwhelming. This page is the opposite of the "awesome" curated lists that are popular on Github. Rather than an exhaustive compilation of every resource on the internet, it is deliberately incomplete and opinionated. For each of the profiles below, we hand picked one tool, one artist, one book, and one website to get your started on your journey.
+Getting started in any new field can feel overwhelming. This page is the opposite of the "awesome" curated lists that are popular on Github. Rather than an exhaustive compilation of every resource on the internet, it is deliberately incomplete. For each of the categories below, we hand picked one tool, one artist, one book, and one website to get your started on your journey.
+
+Let's get going!
 
 
 <!-- ## musician
@@ -32,6 +34,9 @@ If you use Ableton Live, you can make instruments by [Max4Live](https://www.able
 #### One artist: [Malitzin Cortes](http://malitzincortes.net/)
 > Malitzin Cortes a.k.a. CNDSD's work involves live coding, live cinema, installation, Virtual Reality, generative art, sound design, experimental music and sound art. Read Maltitzin's [interview on the TidalCycles blog](https://blog.tidalcycles.org/cndsd/).
 
+#### One book:
+*[suggest one](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)*
+
 #### One website: [TidalCycles Tutorial](https://tidalcycles.org/index.php/Tutorial)
 > This guide will help you get started with simple patterns and walk you through all the way to complex compositions.
 
@@ -48,8 +53,8 @@ If you use Ableton Live, you can make instruments by [Max4Live](https://www.able
 
 > This book is an essential resource for arts educators and practitioners who want to explore code as a creative medium, and serves as a guide for computer scientists transitioning from STEM to STEAM in their syllabi or practice. 
 
-
-<!-- #### One website: -->
+#### One website:
+*[suggest one](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)*
 
 
 ## I want to make visuals
@@ -61,6 +66,9 @@ If you use Ableton Live, you can make instruments by [Max4Live](https://www.able
 #### One artist: [Flor de Fuego](https://twitter.com/flordefuego4)
 
 > [Flor de Fuego](https://twitter.com/flordefuego4) investigates digital image and media, producing images and sounds related to live coding, animation, video and the Internet."
+
+#### One book:
+*[suggest one](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)*
 
 #### One website: [Hydra examples](https://ccfest-2021-glitchme.glitch.me/)
 
@@ -78,6 +86,9 @@ If you use Ableton Live, you can make instruments by [Max4Live](https://www.able
 #### One artist: [Joana Chicau](https://joanachicau.com/)
 > Joana Chicau is a graphic designer, researcher and coder, with a background in choreography and performance. Her methodolgy explores how design and coding practices interfere deeper with interface design and information displays — when considering choreographic thinking, embodiment and new movement perception possibilities.
 
+#### One book:
+*[suggest one](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)*
+
 #### One website: [Motion Bank](http://motionbank.org/)
 > Motion Bank is a spin-off of the Forsythes Company focused on novel ways to record choreography via the digital medium. On the website, there is an archive of past projects including a research project with [Deborah Hay](http://scores.motionbank.org/dh/#/set/sets).
 
@@ -92,6 +103,12 @@ If you use Ableton Live, you can make instruments by [Max4Live](https://www.able
 #### One artist: [Pippin Barr](https://www.pippinbarr.com/category/games/)
 >  Pippin Barr makes games. 
 
+#### One book:
+*[suggest one](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)*
+
+#### One website
+*[suggest one](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)*
+
 
 ## No! I want to make even stranger games!
 
@@ -101,10 +118,12 @@ If you use Ableton Live, you can make instruments by [Max4Live](https://www.able
 #### One artist: [Marie Claire LeBlanc Flanagan](https://marieflanagan.com/)
 > "I design and build things for people. I build play experiences, installations, experimental video games, stories, communities, spaces, and events."
 
+#### One book:
+*[suggest one](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)*
+
 #### One website: [Babycastles](https://twitter.com/Babycastles/)
 > "Babycastles is a non-profit fostering and amplifying diverse voices in videogame culture." Join their [Discord server](https://discordapp.com/invite/sEPRX5Z) or follow them on [Twitch](https://www.twitch.tv/babycastles)!
 
-#### One book: *TBD*
 
 ## I want to make art on the internet
 
@@ -114,11 +133,11 @@ If you use Ableton Live, you can make instruments by [Max4Live](https://www.able
 #### One artist: [Max Bittker](https://maxbittker.com/projects/)
 > Max Bittker is an "Artist building tools for play, creativity, & communication." One recent example of his work, [orb.farm](https://orb.farm/) is a virtual aquarium and ecosystem simulation.
 
-#### One website: [Rhizome](https://rhizome.org/art/artbase/)
-> "The Rhizome ArtBase was founded in 1999 to preserve works of net art that were deemed to be "of potential historical significance." Encompassing a vast range of projects from artists all over the world, the ArtBase provides a home for works that employ materials such as software, code, websites, moving images, games, and browsers." See also: [One Terabyte of Kilobyte age](https://anthology.rhizome.org/one-terabyte-of-kilobyte-age)
-
 #### One book: [I Was Raised on the Internet](https://prestelpublishing.randomhouse.de/paperback/I-was-raised-on-the-Internet/Omar-Kholeif/Prestel-com/e546180.rhd)
 > "Coinciding with a major exhibition at the Museum of Contemporary Art Chicago, this anthology of essays and reflections casts a discursive and critical light on the work of artists engaging with the internet and digital technologies today."
+
+#### One website: [Rhizome](https://rhizome.org/art/artbase/)
+> "The Rhizome ArtBase was founded in 1999 to preserve works of net art that were deemed to be "of potential historical significance." Encompassing a vast range of projects from artists all over the world, the ArtBase provides a home for works that employ materials such as software, code, websites, moving images, games, and browsers." See also: [One Terabyte of Kilobyte age](https://anthology.rhizome.org/one-terabyte-of-kilobyte-age)
 
 
 ## I'm a student
@@ -147,9 +166,11 @@ If you use Ableton Live, you can make instruments by [Max4Live](https://www.able
 #### One artist: [Stefania Druga](https://stefania11.github.io/projects/)
 > Stefania Druga's work focuses on AI Literacy and the design of new computing platforms for children and parents. She is the creator of Hackidemia, a global organization that enables people to learn by doing and playing.
 
-#### One book: *TBD*
+#### One book: 
+*[suggest one](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)*
 
-#### One website: *TBD*
+#### One website: 
+*[suggest one](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)*
 
 
 ## I'm an architect
@@ -163,7 +184,8 @@ If you use Ableton Live, you can make instruments by [Max4Live](https://www.able
 #### One book: [Morphing](https://www.laurencekingverlag.de/produkt/morphing/) 
 > *Morphing, A Guide to Mathematical Transformations for Architects and Designers* is a beautifully designed book, full of examples of using simple mathematical formulas to generate intricate shapes and geometry.
 
-#### One website: *TBD*
+#### One website: 
+*[suggest one](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)*
 
 ## I'm an artist
 
@@ -173,7 +195,8 @@ If you use Ableton Live, you can make instruments by [Max4Live](https://www.able
 #### One artist: [Rosa Menkman](https://beyondresolution.info/)
 > "My work focuses on noise artifacts that result from accidents in both analogue and digital media (such as glitch and encoding and feedback artifacts). I think the resulting artifacts of these accidents can facilitate an important insight into the otherwise obscure alchemy of standardization via resolutions."
 
-#### One book: *TBD*
+#### One book: 
+*[suggest one](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)*
 
 #### One website: [Creative Applications](https://www.creativeapplications.net/)
 > Creative Applications shares projects, tools and platforms relevant to the intersection of art, media and technology. It's a good place to be inspired and stay up to date with the media art scene.
@@ -193,10 +216,19 @@ If you use Ableton Live, you can make instruments by [Max4Live](https://www.able
 #### One book: [Generative Design](http://www.generative-gestaltung.de/2/)
 > This book is a jump-start on coding strategies, with step-by-step tutorials for creating visual experiments that explore the possibilities of color, form, typography, and images. [Code examples](http://www.generative-gestaltung.de/2/) which can be viewed and edited in your browser are available for free on the book's website.
 
+#### One website:
+*[suggest one](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)*
+
 ## I want a drawing robot
 
 #### One Tool: [AxiDraw](https://axidraw.com/)
 > The AxiDraw is a plotter. You attach a pen or pencil to it, give it a line drawing (as a vector file), and it will produce a perfectly accurate copy on paper. A pen plotter can reproduce the aspect of a hand-made drawing, use various tools such as paint markers, and draw on print media that you could not fit into a traditional printer for use cases such as marking out parts directly onto metal sheets.
+
+#### One artist: [Sougwen Chung](https://sougwen.com/)
+> "Chung's work explores the mark-made-by-hand and the mark-made-by-machine as an approach to understanding the dynamics of humans and systems."
+
+#### One book:
+*[suggest one](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)*
 
 #### One website: [DrawingBots.net](https://drawingbots.net/)
 > "The mission of DrawingBots.net is to become the central place on the web to discover the world of drawing robots, get inspiration and talk to other drawing robot enthusiasts.""
@@ -212,7 +244,10 @@ If you use Ableton Live, you can make instruments by [Max4Live](https://www.able
 
 #### One Book: [Arduino Workshop](https://nostarch.com/arduino) 
 
-> *Arduino Workshop: A Hands-On Introduction with 65 Projects* is a beginner's guide to the world of Arduino. It starts with an overview of the system, electronics components, and concepts; then dives into practical uses such as a digital thermometer and a GPS logger, as well as various Arduino-based electronic toys and games.  
+> *Arduino Workshop: A Hands-On Introduction with 65 Projects* is a beginner's guide to the world of Arduino. It starts with an overview of the system, electronics components, and concepts; then dives into practical uses such as a digital thermometer and a GPS logger, as well as various Arduino-based electronic toys and games. 
+
+#### One website:
+*[suggest one](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)*
 
 
 
@@ -232,6 +267,9 @@ If you use Ableton Live, you can make instruments by [Max4Live](https://www.able
 
 #### One artist: [Saskia Freeke](https://twitter.com/sasj_nl)
 > Saskia Freeke has been posting a daily artwork made in Processing every day since January 1st 2015.
+
+#### One book:
+*[suggest one](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)*
 
 #### One website: [OpenProcessing](https://www.openprocessing.org/)
 > OpenProcessing is an online platform for Processing and p5.js creators. You can use their online editor to create sketches and share them with the community.
