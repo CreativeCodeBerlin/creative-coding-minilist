@@ -9,7 +9,7 @@ Creative Coding is a loosely defined term used to describe a wide range of artis
 
 # Where does it come from?
 
-There is a rich history of artists using computers as a tool, going back all the way to the 1970s. People like [Vera Molnar](https://vimeo.com/372579247), [Frieder Nake](http://dada.compart-bremen.de/item/agent/68), [Lillian Schwartz](https://vimeo.com/98960229), Manfred Mohr, many of them still active today. They used computer code to generate complex visuals, drawings, animations, or music. To learn more about the history of computer art you can read [*When the Machine Made Art*](https://www.bloomsbury.com/us/when-the-machine-made-art-9781623562724/) by Grant D. Taylor.
+There is a rich history of artists using computers as a tool, going back all the way to the early 1960s. People like [Vera Molnar](https://vimeo.com/372579247), [Frieder Nake](http://dada.compart-bremen.de/item/agent/68), [Lillian Schwartz](https://vimeo.com/98960229), and [Manfred Mohr](http://www.emohr.com/), some of them still active today. They used computer code to generate complex visuals, drawings, animations, or music. To learn more about the history of computer art you can read [*When the Machine Made Art*](https://www.bloomsbury.com/us/when-the-machine-made-art-9781623562724/) by Grant D. Taylor.
 
 # Why this document?
 
