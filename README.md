@@ -175,8 +175,8 @@ If you use Ableton Live, you can make instruments by [Max4Live](https://www.able
 
 ## I'm an architect
 
-#### One tool: [Grasshopper (Rhino)](https://www.rhino3d.com/6/new/grasshopper/)
-> Grasshopper is a visual programming language and environment that runs within the Rhinoceros 3D design application. Programs are created by dragging components onto a canvas. It is used to create generative algorithms and for parametric modelling.
+#### One tool: [Sverchok]((http://nikitron.cc.ua/sverchok_en.html)) for [Blender](https://www.blender.org/)
+> Sverchok is a free addon for the Open Source 3D software Blender. In Sverchok, 3D shapes are created by dragging components (called "nodes") onto a canvas. You connect these nodes to build generative algorithms that produce more and more intricate 3D shapes. Here are a [Sverchok tutorial](https://www.youtube.com/watch?v=t56vQIaH7DI) and [Blender tutorial](https://www.youtube.com/watch?v=il_KNYaUfnY) to get you started. *Note: Blender is best used with a 3 button mouse and a full-size keyboard (with a numpad).*
 
 #### One artist: [Satoru Sugihara](http://atlv.org/)
 > Satoru Sugihara explores the frontier of computational design technology through design practice and research in contemporary architecture and spatial design.
@@ -190,7 +190,7 @@ If you use Ableton Live, you can make instruments by [Max4Live](https://www.able
 ## I'm an artist
 
 #### One Tool: [TouchDesigner](https://derivative.ca/)
->"TouchDesigner is a visual development platform that equips you with the tools you need to create stunning realtime projects and rich user experiences. Whether you're creating interactive media systems, architectural projections, live music visuals, or simply rapid-prototyping your latest creative impulse, TouchDesigner is the platform that can do it all."
+> "TouchDesigner is a visual development platform that equips you with the tools you need to create stunning realtime projects and rich user experiences. Whether you're creating interactive media systems, architectural projections, live music visuals, or simply rapid-prototyping your latest creative impulse, TouchDesigner is the platform that can do it all."
 
 #### One artist: [Rosa Menkman](https://beyondresolution.info/)
 > "My work focuses on noise artifacts that result from accidents in both analogue and digital media (such as glitch and encoding and feedback artifacts). I think the resulting artifacts of these accidents can facilitate an important insight into the otherwise obscure alchemy of standardization via resolutions."
