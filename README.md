@@ -82,7 +82,7 @@ If you use Ableton Live, you can make instruments by [Max4Live](https://www.able
 > Isadora is used by a lot of dancers and choreographers for media performances - generating geometric patterns, mixing with video feed and using cameras for interactivity. You don't need to code - you can create visuals and logic simply by connecting boxes.But at the end of the day, anything on a computer can be used as material. What about [dancing with a hacked webpage](https://vimeo.com/175534187)?
 
 #### One artist: [Joana Chicau](https://joanachicau.com/)
-> Joana Chicau is a graphic designer, researcher and coder, with a background in choreography and performance. Her methodolgy explores how design and coding practices interfere deeper with interface design and information displays — when considering choreographic thinking, embodiment and new movement perception possibilities.
+> Joana Chicau is a graphic designer, researcher and coder, with a background in choreography and performance. Her methodology explores how design and coding practices interfere deeper with interface design and information displays — when considering choreographic thinking, embodiment and new movement perception possibilities.
 
 #### One book:
 *[suggest one](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)*
