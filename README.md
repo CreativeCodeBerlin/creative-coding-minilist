@@ -210,8 +210,89 @@ If you use Ableton Live, you can make instruments by [Max4Live](https://www.able
 #### One book: [Exploratory Programming for the Arts and Humanities](https://mitpress.mit.edu/books/exploratory-programming-arts-and-humanities)
 > A book for anyone who wants to learn programming to explore and create, with exercises and projects to help the reader learn by doing. 
 
+#### One website: [Code Poetry](http://code-poetry.com/)
+> “This website displays a collection of twelve code poems, each written in the source code of a different programming language. Every poem is also a valid program which produces a visual representation of itself when compiled and run.”
+
+
+## I'm a designer
+
+#### One tool: [p5.js](https://p5js.org/)
+> "p5.js is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else!"
+
+#### One artist: [Raven Kwok](https://ravenkwok.com/)
+> Raven Kwok (aka Guo, Ruiwen) is a visual artist and creative technologist. His artistic and research interest mainly focus on exploring generative visual aesthetic brought by computer algorithms and software processes. Watch [his talk at MuDA](https://www.youtube.com/watch?v=MJULayyg4sU) for more background on his work.
+
+#### One book: [Generative Design](http://www.generative-gestaltung.de/2/)
+> This book is a jump-start on coding strategies, with step-by-step tutorials for creating visual experiments that explore the possibilities of color, form, typography, and images. [Code examples](http://www.generative-gestaltung.de/2/) which can be viewed and edited in your browser are available for free on the book's website.
+
+#### One website:
+<!--* [ReCode](http://recodeproject.com/)
+* [Re-Coded](https://sfpc.io/recoded/) -->
+*[suggest one](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)*
+
+## I want a drawing robot
+
+#### One Tool: [AxiDraw](https://axidraw.com/)
+> The AxiDraw is a plotter. You attach a pen or pencil to it, give it a line drawing (as a vector file), and it will produce a perfectly accurate copy on paper. A pen plotter can reproduce the aspect of a hand-made drawing, use various tools such as paint markers, and draw on print media that you could not fit into a traditional printer for use cases such as marking out parts directly onto metal sheets.
+
+#### One artist: [Sougwen Chung](https://sougwen.com/)
+> "Chung's work explores the mark-made-by-hand and the mark-made-by-machine as an approach to understanding the dynamics of humans and systems."
+
+#### One book:
+*[suggest one](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)*
+
+#### One website: [DrawingBots.net](https://drawingbots.net/)
+> "The mission of DrawingBots.net is to become the central place on the web to discover the world of drawing robots, get inspiration and talk to other drawing robot enthusiasts."
+
+## I want to build a robot!
+
+#### One tool: [Arduino](https://www.arduino.cc/)
+
+> Making a robot that walks by itself is a huge research project! But you can start with a simple example. What about connecting a motor and a light sensor to an [Arduino](https://www.arduino.cc/) and move it when you cover the sensor? Arduino is a small electronics board that can sense the environment and affects its surroundings by controlling lights, motors, and other actuators.
+
+#### One artist: [So Kanno](http://kanno.so/)
+> So Kanno is an artist who's work is full of custom built robots, from laser mice to chaotic drawing machines. "He considers the essential change of things brought about by the evolution and change of technology, and creates works to bring a new perspective upon them.""
+
+#### One Book: [Arduino Workshop](https://nostarch.com/arduino) 
+
+> *Arduino Workshop: A Hands-On Introduction with 65 Projects* is a beginner's guide to the world of Arduino. It starts with an overview of the system, electronics components, and concepts; then dives into practical uses such as a digital thermometer and a GPS logger, as well as various Arduino-based electronic toys and games. 
+
 #### One website:
 *[suggest one](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)*
+
+
+
+
+<!-- ## I want to make media art work with nails!
+
+#### One tool: your nails
+
+#### One artist: Nadja Buttendorf
+<https://nadjas-nail-art-residency.org/sabrina-labis-360-nail/>
+-->
+
+## Now I know how to draw lines and circles, what's next?
+
+#### One tool: Twitter/Instagram
+> Posting your work on Twitter/Instagram is a great way to get feedback. Feel free to tag [@CreativeCodeBLN](https://twitter.com/CreativeCodeBLN/) so we can share your work with the community! 
+
+#### One artist: [Saskia Freeke](https://twitter.com/sasj_nl)
+> Saskia Freeke has been posting a daily artwork made in Processing every day since January 1st 2015.
+
+#### One book:
+*[suggest one](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)*
+
+#### One website: [OpenProcessing](https://www.openprocessing.org/)
+> OpenProcessing is an online platform for Processing and p5.js creators. You can use their online editor to create sketches and share them with the community.
+
+# Thanks!
+
+This list is created and maintained by [Raphaël de Courville](https://twitter.com/sableRaph) and [Naoto Hieda](https://twitter.com/naoto_hieda) for [Creative Code Berlin](http://creativecode.berlin/) as resource for people coming to our bi-monthly meetups. We hope it can be helpful to others as well :)
+
+If you are looking for a more comprehensive list, check out this [curated list of awesome creative coding resources](https://github.com/terkelg/awesome-creative-coding).
+
+This document is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
 
 ## I'm a designer
 
