@@ -25,7 +25,7 @@ C'est parti !
 
 <!-- De plus, [Hydra](https://hydra.ojack.xyz/) est un excellent outil pour créer rapidement des visuels pour votre performance musicale ! -->
 
-#### Un artiste : [Malitzin Cortes] (http://malitzincortes.net/)
+#### Un artiste : [Malitzin Cortes](http://malitzincortes.net/)
 > Le travail de Malitzin Cortes (alias CNDSD) va du live coding, au live cinema, en passant par les installations, la réalité virtuelle, l'art génératif, le design sonore, la musique expérimentale ou l'art sonore. Lisez [l'interview de Malitzin sur le blog de TidalCycles](https://blog.tidalcycles.org/cndsd/) (en Anglais).
 
 #### Un livre :
