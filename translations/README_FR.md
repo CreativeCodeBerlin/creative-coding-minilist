@@ -9,7 +9,7 @@ Sous le terme de "Code Créatif" se regroupent un large éventail de pratiques a
 
 # D'où vient le Code Créatif?
 
-Il existe une riche histoire d'artistes utilisant l'ordinateur comme outil, qui remonte au début des années 1960. Des créateurs tels que [Vera Molnar](https://vimeo.com/372579247), [Frieder Nake](http://dada.compart-bremen.de/item/agent/68), [Lillian Schwartz](https://vimeo.com/98960229), et [Manfred Mohr](http://www.emohr.com/), dont certains sont encore actifs aujourd'hui. Ils ont utilisé le code informatique pour générer des visuels, des dessins, des animations ou de la musique. Pour en savoir plus sur l'histoire de l'art numérique en général, vous pouvez lire [*When the Machine Made Art*](https://www.bloomsbury.com/us/when-the-machine-made-art-9781623562724/) de Grant D. Taylor (en Anglais).
+Il existe une riche histoire d'artistes utilisant l'ordinateur comme outil, qui remonte au début des années 1960. Des créateurs tels que [Vera Molnar](https://vimeo.com/372579247), [Frieder Nake](http://dada.compart-bremen.de/item/agent/68), [Lillian Schwartz](https://vimeo.com/98960229), et [Manfred Mohr](http://www.emohr.com/), dont certains sont encore actifs aujourd'hui. Ces artistes ont utilisé le code informatique pour générer des visuels, des dessins, des animations ou de la musique. Pour en savoir plus sur l'histoire de l'art numérique en général, vous pouvez lire [*When the Machine Made Art*](https://www.bloomsbury.com/us/when-the-machine-made-art-9781623562724/) de Grant D. Taylor (en Anglais).
 
 # Pourquoi ce document ?
 
@@ -25,7 +25,7 @@ C'est parti !
 
 <!-- De plus, [Hydra](https://hydra.ojack.xyz/) est un excellent outil pour créer rapidement des visuels pour votre performance musicale ! -->
 
-#### Un artiste : [Malitzin Cortes](http://malitzincortes.net/)
+#### Un·e artiste : [Malitzin Cortes](http://malitzincortes.net/)
 > Le travail de Malitzin Cortes (alias CNDSD) va du live coding, au live cinema, en passant par les installations, la réalité virtuelle, l'art génératif, le design sonore, la musique expérimentale ou l'art sonore. Lisez [l'interview de Malitzin sur le blog de TidalCycles](https://blog.tidalcycles.org/cndsd/) (en Anglais).
 
 #### Un livre :
@@ -39,7 +39,7 @@ C'est parti !
 #### Un outil : [Processing](https://processing.org/) 
 > Processing est un outil formidable pour commencer à réaliser des visuels; si vous êtes déjà familier avec le langage de programmation Java, C/C++ et autres, les [exemples intégrés](https://processing.org/examples/) vous donneront une bonne idée de par où commencer. Il existe également une version Python. D'autres outils tels que openFrameworks et OPENRNDR ont une philosophie similaire.
 
-#### Un artiste : [Anna Carreras](https://www.annacarreras.com/)
+#### Un·e artiste : [Anna Carreras](https://www.annacarreras.com/)
 > Anna Carreras (Barcelone, 1979) est une codeuse créative et une artiste numérique. Elle concentre son travail sur l'utilisation d'algorithmes génératifs, de code créatif et de technologie interactive comme moyen de communication et générateur d'expérience.
 
 #### Un livre : [Code as Creative Medium](https://mitpress.mit.edu/books/code-creative-medium)
@@ -56,7 +56,7 @@ C'est parti !
 
 > Hydra est un environnement de programmation permettant de créer rapidement des visuels dans un navigateur web en utilisant une quantité minimale de code. `osc().out()` génère un motif d'onde sinusoïdale, et `osc().color(1,0,0).out()` change la couleur en rouge. Vous pouvez poser des questions sur le [serveur Discord de Hydra](https://discord.gg/b44SDAyJmf) et voir quelques exemples de [visuels créés dans Hydra](https://twitter.com/hydra_patterns).
 
-#### Un artiste : [Flor de Fuego](https://twitter.com/flordefuego4)
+#### Un·e artiste : [Flor de Fuego](https://twitter.com/flordefuego4)
 
 > [Flor de Fuego](https://twitter.com/flordefuego4) étudie l'image et les médias numériques, en produisant des images et des sons liés au live coding, à l'animation, à la vidéo et à l'Internet.
 
@@ -74,7 +74,7 @@ C'est parti !
 
 > Isadora est utilisé par de nombreux danseurs et chorégraphes pour des performances multimédia - générant des motifs géométriques, se mélangeant avec le flux vidéo et utilisant des caméras pour l'interactivité. Il n'est pas nécessaire de coder, il suffit de connecter des modules pour créer des images et de l'interaction. Au bout du compte, la technologie n'est qu'un moyen et pas une fin et tout ce qui se trouve sur votre ordinateur peut être utilisé comme outil. Que diriez-vous de [danser avec une page web piratée](https://vimeo.com/175534187) par example ?
 
-#### Un artiste : [Joana Chicau](https://joanachicau.com/)
+#### Un·e artiste : [Joana Chicau](https://joanachicau.com/)
 > Joana Chicau est graphiste, chercheuse et codeuse, avec une formation en chorégraphie et en performance. Sa méthodologie explore la manière dont les pratiques de conception et de codage interfèrent plus profondément avec la conception des interfaces et l'affichage des informations - en considérant la pensée chorégraphique, l'incarnation et les nouvelles possibilités de perception du mouvement.
 
 #### Un livre :
@@ -90,7 +90,7 @@ C'est parti !
 
 <!-- [Unity](https://unity.com/) et [Unreal Engine](https://www.unrealengine.com/) sont des "moteurs de jeu" qui offrent divers outils fréquemment utilisés dans les jeux vidéo. Ils sont largement utilisés pour les jeux vidéo commerciaux, mais vous pouvez commencer à les utiliser gratuitement. Vous pouvez utiliser des interfaces graphiques pour créer un jeu sans codage, ou vous pouvez programmer en C#/C++. -->
 
-#### Un artiste : [Pippin Barr](https://www.pippinbarr.com/category/games/)
+#### Un·e artiste : [Pippin Barr](https://www.pippinbarr.com/category/games/)
 > Pippin Barr fait des jeux. 
 
 #### Un livre :
@@ -105,7 +105,7 @@ C'est parti !
 #### Un outil : [Wekinator](http://www.wekinator.org/)
 > Le Wekinator est un logiciel libre et gratuit, créé à l'origine en 2009 par Rebecca Fiebrink. Il permet à quiconque d'utiliser l'intelligence artificielle pour construire de nouveaux instruments de musique, des contrôleurs de jeux gestuels, des systèmes de vision par machine, et bien plus encore.
 
-#### Un artiste : [Marie Claire LeBlanc Flanagan](https://marieflanagan.com/)
+#### Un·e artiste : [Marie Claire LeBlanc Flanagan](https://marieflanagan.com/)
 > "Je conçois et construis des choses pour les gens. Je construis des expériences de jeu, des installations, des jeux vidéo expérimentaux, des histoires, des communautés, des espaces et des événements."
 
 #### Un livre :
@@ -120,7 +120,7 @@ C'est parti !
 #### Un outil : [Glitch](https://glitch.com)
 > Glitch est une excellente plateforme pour créer rapidement un petit projet web. Cela nécessite une connaissance du HTML, CSS et JavaScript (front end et [node.js](https://nodejs.org)).
 
-#### Un artiste : [Max Bittker](https://maxbittker.com/projects/)
+#### Un·e artiste : [Max Bittker](https://maxbittker.com/projects/)
 > Max Bittker est un "artiste construisant des outils pour le jeu, la créativité et la communication". Un exemple récent de son travail, [orb.farm](https://orb.farm/) est une simulation virtuelle d'aquarium et d'écosystème.
 
 #### Un livre : [I Was Raised on the Internet](https://prestelpublishing.randomhouse.de/paperback/I-was-raised-on-the-Internet/Omar-Kholeif/Prestel-com/e546180.rhd)
@@ -135,7 +135,7 @@ C'est parti !
 #### Un outil : [p5.js](https://p5js.org/) 
 > p5.js est un outil pour dessiner des formes et peindre des couleurs dans un navigateur web. Vous pouvez commencer à coder dès maintenant dans [l'éditeur web](https://editor.p5js.org/) et trouver des [tutos sur le site web de p5.js](https://p5js.org/learn/).
 
-#### Un artiste : [Aren Davey](https://twitter.com/aah_dee_)
+#### Un·e artiste : [Aren Davey](https://twitter.com/aah_dee_)
 > Aren a créé [Cozy Coding](https://www.twitch.tv/cozycoding), "une série de streams Twitch hebdomadaires qui offrent des tutoriels et des leçons interactives sur p5.js à ses viewers".
 
 #### Un livre : [Processing - 2e éd. - S'initier à la programmation créative](https://www.dunod.com/sciences-techniques/processing-initier-programmation-creative-0)
@@ -146,7 +146,7 @@ C'est parti !
 > The Coding Train est "une chaîne YouTube dédiée aux tutoriels et défis de code créatif pour débutants". Elle a été créée par Daniel Schiffman. Vous pouvez poser des questions sur leur [serveur Discord](https://discord.gg/bzJQUyxPY5).
 
 
-## Je suis un parent / un enfant
+## Je suis parent / enfant
 
 #### Un outil : [Scratch](https://scratch.mit.edu/)
 > Avec Scratch, vous pouvez programmer vos propres histoires, jeux et animations interactives et partager vos créations avec d'autres membres de la communauté en ligne. Scratch est conçu spécialement pour les 8 à 16 ans, mais est utilisé par des personnes de tous âges.
@@ -176,12 +176,12 @@ C'est parti !
 *[En suggérer un](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)*
 
 
-## Je suis un artiste
+## Je suis un·e artiste
 
 #### Un outil : [TouchDesigner](https://derivative.ca/)
 > "TouchDesigner est une plateforme de développement visuel qui vous fournit les outils nécessaires pour créer des projets en temps réel époustouflants et des expériences utilisateur riches. Que vous créiez des systèmes de médias interactifs, des projections architecturales, des visuels de musique en direct ou que vous réalisiez simplement un prototype rapide de votre dernière impulsion créative, TouchDesigner est la plateforme qui peut tout faire".
 
-#### Un artiste : [Rosa Menkman](https://beyondresolution.info/)
+#### Un·e artiste : [Rosa Menkman](https://beyondresolution.info/)
 > "Mon travail se concentre sur les artefacts de bruit qui résultent d'accidents dans les médias analogiques et numériques (tels que les pépins et les artefacts d'encodage et de rétroaction). Je pense que les artefacts résultant de ces accidents peuvent faciliter un aperçu important de l'alchimie autrement obscure de la normalisation par le biais des résolutions".
 
 #### Un livre : 
@@ -195,7 +195,7 @@ C'est parti !
 
 #### Un outil : [Thonny a Python IDE for beginners](http://thonny.org)
 
-#### Un artiste : [Allison Parrish](https://www.decontextualize.com)
+#### Un·e artiste : [Allison Parrish](https://www.decontextualize.com)
 > Allison Parrish est une poète américaine, ingénieure logiciel, codeuse créative et conceptrice de jeux, notable comme l'une des plus éminentes créatrices des premiers bots Twitter littéraires et créatifs. Elle a été nommée "Best Maker of Poetry Bots" par The Village Voice en 2016.
 
 #### Un livre : [Exploratory Programming for the Arts and Humanities](https://mitpress.mit.edu/books/exploratory-programming-arts-and-humanities)
@@ -209,7 +209,7 @@ C'est parti !
 #### Un outil : [p5.js](https://p5js.org/)
 > "p5.js est une librarie JavaScript pour le code créatif, dont l'objectif est de rendre le code accessible et inclusif pour les artistes, les graphistes, les éducateurs, les débutants et toute autre personne".
 
-#### Un artiste : [Raven Kwok](https://ravenkwok.com/)
+#### Un·e artiste : [Raven Kwok](https://ravenkwok.com/)
 > Raven Kwok (alias Guo, Ruiwen) est un artiste visuel et un technologiste créatif. Son intérêt artistique et de recherche se concentre principalement sur l'exploration de l'esthétique visuelle générative apportée par les algorithmes informatiques et les processus logiciels. Regardez [sa conférence à MuDA](https://www.youtube.com/watch?v=MJULayyg4sU) (en Anglais) pour plus d'informations sur son travail.
 
 #### Un livre : [Generative Design](http://www.generative-gestaltung.de/2/)
@@ -226,7 +226,7 @@ C'est parti !
 #### Un outil : [AxiDraw](https://axidraw.com/)
 > L'AxiDraw est un traceur. Vous y attachez un stylo ou un crayon, vous lui donnez un dessin au trait (sous forme de fichier vectoriel), et il produira une copie parfaitement fidèle sur papier. Un traceur peut reproduire l'aspect d'un dessin fait à la main, utiliser divers outils tels que des marqueurs à peinture, et dessiner sur des supports d'impression que vous ne pourriez pas insérer dans une imprimante traditionnelle, pour des cas d'utilisation tels que le marquage de pièces directement sur des feuilles de métal.
 
-#### Un artiste : [Sougwen Chung](https://sougwen.com/)
+#### Un·e artiste : [Sougwen Chung](https://sougwen.com/)
 > "Le travail de Chung explore le tracé à la main et le tracé à la machine comme une approche pour comprendre la dynamique des humains et des systèmes."
 
 #### Un livre :
@@ -240,7 +240,7 @@ C'est parti !
 #### Un outil : [Arduino](https://www.arduino.cc/)
 > Fabriquer un robot qui marche tout seul est un énorme projet de recherche ! Mais vous pouvez commencer par un exemple simple. Que diriez-vous de connecter un moteur et un capteur de lumière à un [Arduino](https://www.arduino.cc/) afind d'actionner le moteur lorsque vous recouvrez le capteur ? Arduino est une petite carte électronique qui peut détecter l'environnement et agir sur son environnement en contrôlant les lumières, les moteurs et autres actuateurs.
 
-#### Un artiste : [So Kanno](http://kanno.so/)
+#### Un·e artiste : [So Kanno](http://kanno.so/)
 > So Kanno est un artiste dont l'œuvre fourmille de robots sur mesure, de souris laser et de machine à dessiner chaotiques. "Il considère le changement essentiel des choses provoqué par l'évolution et le changement de la technologie, et crée des œuvres pour leur apporter une nouvelle perspective".
 
 #### Un livre : [Arduino Pour les Nuls, 3ed](https://www.lisez.com/livre-grand-format/arduino-pour-les-nuls-grand-format-3-ed/9782412056004) 
@@ -255,7 +255,7 @@ C'est parti !
 #### Un outil : Twitter/Instagram
 > Publier vos travaux sur Twitter/Instagram est un excellent moyen de recueillir les réactions. N'hésitez pas à tagger [@CreativeCodeBLN](https://twitter.com/CreativeCodeBLN/) afin que nous puissions partager votre travail avec la communauté ! 
 
-#### Un artiste : [Saskia Freeke](https://twitter.com/sasj_nl)
+#### Un·e artiste : [Saskia Freeke](https://twitter.com/sasj_nl)
 > Depuis le 1er janvier 2015, Saskia Freeke publie chaque jour une œuvre d'art réalisée dans Processing.
 
 #### Un livre :
