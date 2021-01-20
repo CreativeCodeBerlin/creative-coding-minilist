@@ -32,7 +32,7 @@ If you use Ableton Live, you can make instruments by [Max4Live](https://www.able
 <!-- Also, [Hydra](https://hydra.ojack.xyz/) is a great tool to quickly create visuals for your musical performance! -->
 
 #### One artist: [Malitzin Cortes](http://malitzincortes.net/)
-> Malitzin Cortes a.k.a. CNDSD's work involves live coding, live cinema, installation, Virtual Reality, generative art, sound design, experimental music and sound art. Read Maltitzin's [interview on the TidalCycles blog](https://blog.tidalcycles.org/cndsd/).
+> Malitzin Cortes a.k.a. CNDSD's work involves live coding, live cinema, installation, Virtual Reality, generative art, sound design, experimental music and sound art. Read Malitzin's [interview on the TidalCycles blog](https://blog.tidalcycles.org/cndsd/).
 
 #### One book:
 *[suggest one](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)*
@@ -44,7 +44,7 @@ If you use Ableton Live, you can make instruments by [Max4Live](https://www.able
 ## I want to use my existing coding skills to make art
 
 #### One tool: [Processing](https://processing.org/) 
-> Processing is a great tool to start making visuals; if you are already familiar with Java or C-like programming language, the bundled examples will give you a good idea where to start. There is also a Python version. You will find that other tools such as openFrameworks and OPENRNDR have similar philosophy.
+> Processing is a great tool to start making visuals; if you are already familiar with Java or C-like programming language, the [bundled examples](https://processing.org/examples/) will give you a good idea where to start. There is also a Python version. You will find that other tools such as openFrameworks and OPENRNDR have similar philosophy.
 
 #### One artist: [Anna Carreras](https://www.annacarreras.com/)
 > Anna Carreras (Barcelona, 1979) is a creative coder and digital artist interested in experimentation on interactive communication focusing her work on the use of generative algorithms, creative code and interactive technology as a means of communication and an experience generator.
@@ -61,7 +61,7 @@ If you use Ableton Live, you can make instruments by [Max4Live](https://www.able
 
 #### One tool: [Hydra](https://hydra.ojack.xyz/)
 
-> Hydra is a programming environment to rapidly create visuals in the browser using only a small amount of code. `osc().out()` generates a sine wave pattern, and `osc().color(1,0,0).out()` changes the color to red. You can ask questions on the [Discord server](https://discord.gg/b44SDAyJmf) and see some examples of  [visuals created in Hydra](https://twitter.com/hydra_patterns).
+> Hydra is a programming environment to rapidly create visuals in the browser using only a small amount of code. `osc().out()` generates a sine wave pattern, and `osc().color(1,0,0).out()` changes the color to red. You can ask questions on [Hydra's Discord server](https://discord.gg/b44SDAyJmf) and see some examples of  [visuals created in Hydra](https://twitter.com/hydra_patterns).
 
 #### One artist: [Flor de Fuego](https://twitter.com/flordefuego4)
 
@@ -72,10 +72,8 @@ If you use Ableton Live, you can make instruments by [Max4Live](https://www.able
 
 #### One website: [Hydra examples](https://ccfest-2021-glitchme.glitch.me/)
 
-> A short collection of Hydra sketches built for a workshop at the CC Fest 2021 Creative Coding Festival. You can edit the examples in your browser to teach yourself the basics.
+> A short collection of Hydra sketches built for a workshop at the CC Fest 2021 Creative Coding Festival. You can edit the examples in your browser to teach yourself the basics. If you are interested in further reading, please check out the online [Hydra Book](https://hydra-book.naotohieda.com/)!
 
-<!-- Here is a [list of visual programming languages](https://github.com/terkelg/awesome-creative-coding#visual-programming-languages).
- -->
 
 ## I'm dancer / choreographer and want to make a show with videos!
 
@@ -202,6 +200,19 @@ If you use Ableton Live, you can make instruments by [Max4Live](https://www.able
 > Creative Applications shares projects, tools and platforms relevant to the intersection of art, media and technology. It's a good place to be inspired and stay up to date with the media art scene.
 
 
+## I'm a poet
+
+#### One tool: [Thonny a Python IDE for beginners](http://thonny.org)
+
+#### One artist: [Allison Parrish](https://www.decontextualize.com)
+> Allison Parrish is an American poet, software engineer, creative coder, and game designer, notable as one of the most prominent early makers of creative, literary Twitter bots. She was named "Best Maker of Poetry Bots" by The Village Voice in 2016.
+
+#### One book: [Exploratory Programming for the Arts and Humanities](https://mitpress.mit.edu/books/exploratory-programming-arts-and-humanities)
+> A book for anyone who wants to learn programming to explore and create, with exercises and projects to help the reader learn by doing. 
+
+#### One website:
+*[suggest one](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)*
+
 ## I'm a designer
 
 #### One tool: [p5.js](https://p5js.org/)
@@ -210,13 +221,12 @@ If you use Ableton Live, you can make instruments by [Max4Live](https://www.able
 #### One artist: [Raven Kwok](https://ravenkwok.com/)
 > Raven Kwok (aka Guo, Ruiwen) is a visual artist and creative technologist. His artistic and research interest mainly focus on exploring generative visual aesthetic brought by computer algorithms and software processes. Watch [his talk at MuDA](https://www.youtube.com/watch?v=MJULayyg4sU) for more background on his work.
 
-<!--* [ReCode](http://recodeproject.com/)
-* [Re-Coded](https://sfpc.io/recoded/) -->
-
 #### One book: [Generative Design](http://www.generative-gestaltung.de/2/)
 > This book is a jump-start on coding strategies, with step-by-step tutorials for creating visual experiments that explore the possibilities of color, form, typography, and images. [Code examples](http://www.generative-gestaltung.de/2/) which can be viewed and edited in your browser are available for free on the book's website.
 
 #### One website:
+<!--* [ReCode](http://recodeproject.com/)
+* [Re-Coded](https://sfpc.io/recoded/) -->
 *[suggest one](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)*
 
 ## I want a drawing robot
@@ -231,7 +241,7 @@ If you use Ableton Live, you can make instruments by [Max4Live](https://www.able
 *[suggest one](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)*
 
 #### One website: [DrawingBots.net](https://drawingbots.net/)
-> "The mission of DrawingBots.net is to become the central place on the web to discover the world of drawing robots, get inspiration and talk to other drawing robot enthusiasts.""
+> "The mission of DrawingBots.net is to become the central place on the web to discover the world of drawing robots, get inspiration and talk to other drawing robot enthusiasts."
 
 ## I want to build a robot!
 
@@ -263,7 +273,7 @@ If you use Ableton Live, you can make instruments by [Max4Live](https://www.able
 ## Now I know how to draw lines and circles, what's next?
 
 #### One tool: Twitter/Instagram
-> Posting your work on Twitter/Instagram is a great way to get feedback from the community. Feel free to tag [@CreativeCodeBLN](https://twitter.com/CreativeCodeBLN/) so we can share your work with the community! 
+> Posting your work on Twitter/Instagram is a great way to get feedback. Feel free to tag [@CreativeCodeBLN](https://twitter.com/CreativeCodeBLN/) so we can share your work with the community! 
 
 #### One artist: [Saskia Freeke](https://twitter.com/sasj_nl)
 > Saskia Freeke has been posting a daily artwork made in Processing every day since January 1st 2015.
