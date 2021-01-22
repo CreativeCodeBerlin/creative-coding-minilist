@@ -1,4 +1,4 @@
-[English](../README.md) | [日本語](./translations/README_JA.md)
+[English](../README.md) | [日本語](./README_JA.md)
 
 > Un point de départ pour votre voyage en code créatif
 
