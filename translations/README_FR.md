@@ -1,4 +1,4 @@
-[English](./README.md) | [日本語](./translations/README_JA.md)
+[English](../README.md) | [日本語](./translations/README_JA.md)
 
 > Un point de départ pour votre voyage en code créatif
 
@@ -17,6 +17,8 @@ Débuter dans un nouveau domaine peut être une expérience stressante. Cette pa
 
 C'est parti !
 
+<!-- START doctoc -->
+<!-- END doctoc -->
 
 ## Je veux faire de la musique !
 
