@@ -17,8 +17,29 @@ Débuter dans un nouveau domaine peut être une expérience stressante. Cette pa
 
 C'est parti !
 
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+  - [Je veux faire de la musique !](#je-veux-faire-de-la-musique-)
+  - [Je sais déjà programmer et je veux faire de l'art.](#je-sais-d%C3%A9j%C3%A0-programmer-et-je-veux-faire-de-lart)
+  - [Je veux faire des visuels](#je-veux-faire-des-visuels)
+  - [Je suis danseur·euse / chorégraphe et je veux faire un spectacle avec des vidéos !](#je-suis-danseur%C2%B7euse--chor%C3%A9graphe-et-je-veux-faire-un-spectacle-avec-des-vid%C3%A9os-)
+  - [Je veux créer des jeux !](#je-veux-cr%C3%A9er-des-jeux-)
+  - [Non ! Je veux faire des jeux encore plus étranges !](#non--je-veux-faire-des-jeux-encore-plus-%C3%A9tranges-)
+  - [Je veux faire de l'art sur Internet](#je-veux-faire-de-lart-sur-internet)
+  - [Je suis étudiant](#je-suis-%C3%A9tudiant)
+  - [Je suis parent / enfant](#je-suis-parent--enfant)
+  - [Je suis architecte](#je-suis-architecte)
+  - [Je suis un·e artiste](#je-suis-un%C2%B7e-artiste)
+  - [Je suis un poète](#je-suis-un-po%C3%A8te)
+  - [Je suis graphiste](#je-suis-graphiste)
+  - [Je veux une machine à dessiner](#je-veux-une-machine-%C3%A0-dessiner)
+  - [Je veux construire un robot !](#je-veux-construire-un-robot-)
+  - [D'accord je sais dessiner des lignes et des cercles, et après ?](#daccord-je-sais-dessiner-des-lignes-et-des-cercles-et-apr%C3%A8s-)
+- [Merci !](#merci-)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Je veux faire de la musique !
 
