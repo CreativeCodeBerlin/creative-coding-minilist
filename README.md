@@ -22,7 +22,27 @@ Let's get going!
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
+  - [I want to make music!](#i-want-to-make-music)
+  - [I want to use my existing coding skills to make art](#i-want-to-use-my-existing-coding-skills-to-make-art)
+  - [I want to make visuals](#i-want-to-make-visuals)
+  - [I'm dancer / choreographer and want to make a show with videos!](#im-dancer--choreographer-and-want-to-make-a-show-with-videos)
+  - [I want to make games!](#i-want-to-make-games)
+  - [No! I want to make even stranger games!](#no-i-want-to-make-even-stranger-games)
+  - [I want to make art on the internet](#i-want-to-make-art-on-the-internet)
+  - [I'm a student](#im-a-student)
+  - [I'm a parent / kid](#im-a-parent--kid)
+  - [I'm an architect](#im-an-architect)
+  - [I'm an artist](#im-an-artist)
+  - [I'm a poet](#im-a-poet)
+  - [I'm a designer](#im-a-designer)
+  - [I want a drawing robot](#i-want-a-drawing-robot)
+  - [I want to build a robot!](#i-want-to-build-a-robot)
+  - [Now I know how to draw lines and circles, what's next?](#now-i-know-how-to-draw-lines-and-circles-whats-next)
 - [Thanks!](#thanks)
+  - [I'm a designer](#im-a-designer-1)
+  - [I want a drawing robot](#i-want-a-drawing-robot-1)
+  - [I want to build a robot!](#i-want-to-build-a-robot-1)
+  - [Now I know how to draw lines and circles, what's next?](#now-i-know-how-to-draw-lines-and-circles-whats-next-1)
 - [Thanks!](#thanks-1)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
