@@ -429,6 +429,6 @@ Jeśli szukasz bardziej wyczerpującego zestawienia, sparwdź tę oto [stale akt
 wspaniałych zasobów odnośnie kreatywnego kodowania](https://github.com/terkelg/awesome-creative-coding) 
 (ang. awesome creative coding).
 
-Polskie tłumaczenie: [Kazik Pogoda](https://xemantic.com)
+Tłumaczenie z angielskiego: [Kazik Pogoda](https://xemantic.com)
 
 Ten dokument objęty jest licencją [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
