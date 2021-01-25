@@ -19,18 +19,18 @@ Historia obfituje w przypadki artystów używających komputerów jako narzędzi
 [Manfreda Mohra](http://www.emohr.com/), 
 część z nich jest aktywna do dnia dzisiejszego. Używali oni kodu komputerowego do
 generowania złożonych efektów wizualnych, rysunków, animacji lub muzyki. By dowiedzieć się
-więcej o historii sztuki komputerowej możesz przeczytać artukuł Granta D. Taylora pod tytułem
+więcej o historii sztuki komputerowej możesz przeczytać artykuł Granta D. Taylora pod tytułem
 [*When the Machine Made Art*](https://www.bloomsbury.com/us/when-the-machine-made-art-9781623562724/)
-("Kiedy maszyna stworzyła szutkę").
+("Kiedy maszyna stworzyła sztutkę").
 
     
 # Dlaczego powstał ten dokument?
 
 Pierwsze kroki w każdej nowej dziedzinie mogą przytłaczać. Ta strona jest przeciwieństwem podobnych
-list spożądzanych w konwencji "awesome" ("wspaniały"), które są popularne na GitHubie.
+list sporządzanych w konwencji "awesome" ("wspaniały"), które są popularne na GitHubie.
 Zamiast wyczerpującego zbioru każdego zasobu w internecie, ta strona jest celowo ograniczona.
 Dla każdej z kategorii poniżej wybraliśmy jedno narzędzie, jedną Artystkę/Artystę, jedną książkę
-i jedną stronę internetową, by umożliwić Ci rozpoczącie Twej podróży.
+i jedną stronę internetową, aby umożliwić Ci rozpoczęcie Twej podróży.
 
 Zatem zaczynamy!
 
@@ -47,8 +47,8 @@ Zatem zaczynamy!
 
 > Twórczość Malitzin Cortes, znanej także jako CNDSD, wykorzystuje kodowanie na żywo
 > (ang. live coding), film na żywo (ang. live cinema), instalacje, rzeczywistość wirtualną
-> (ang. Virtual Reality), sztukę generatywną, projektowanie dzięku, muzykę eksperymentalną
-> i sztukę dzwiękową. Przeczytaj
+> (ang. Virtual Reality), sztukę generatywną, projektowanie dzwięku, muzykę eksperymentalną
+> i sztukę dźwiękową. Przeczytaj
 > [wywiad z Malitzin na blogu TidalCycles](https://blog.tidalcycles.org/cndsd/).
 
 #### Jedna książka
@@ -57,38 +57,38 @@ Zatem zaczynamy!
 #### Jedna strona [TidalCycles Tutorial](https://tidalcycles.org/index.php/Tutorial) ("Wprowadzenie do TidalCycles")
 > Ten instruktaż pomoże Ci rozpocząć z prostymi wzorcami i poprowadzi Cię aż do złożonych kompozycji.
 
-## Chciałabym/Chciałbym wykorzystać moje istniejące umiejętności programowania, by tworzyć sztukę
+## Chcę wykorzystać moje istniejące umiejętności programowania, by tworzyć sztukę
 
 #### Jedno narzędzie: [Processing](https://processing.org/)
 
-> Processing jest znakomitym narzędziem dla rozpoczącia pracy z efektami wizualnymi; jeśli jesteś
+> Processing jest znakomitym narzędziem dla rozpoczęcia pracy z efektami wizualnymi; jeśli jesteś
 > już zaznajomiona/zaznajomiony z Javą lub C-podobnymi językami programowania,
 > [załączone przykłady](https://processing.org/examples/) dostarczą Ci dobrego rozeznania gdzie
 > zacząć. Istnieje także wersja dla Pythona. Znajdziesz także inne narzędzia jak openFrameworks
-> i OPENRNDR bazujące na podobnej filozofii działania.
+> i OPENRNDR, bazujące na podobnej filozofii działania.
 
 #### Jedna artystka [Anna Carreras](https://www.annacarreras.com/)
 
 > Anna Carreras (Barcelona, 1979) jest kreatywną koderką i artystką cyfrową zainteresowaną 
-> experymentowaniem z interaktywną komunikacją, skupiając swą pracę na zastosowaniu algorytmów
+> eksperymentowaniem z interaktywną komunikacją, skupiając swą pracę na zastosowaniu algorytmów
 > generatywnych, kreatywnego kodu i technologii interaktywnych, jako środków komunikacji
 > i generowania doświadczeń.
 
 #### Jedna książka: [Code as Creative Medium](https://mitpress.mit.edu/books/code-creative-medium) ("Kod jako medium twórczości")
 
-> Tak ksiażką jest kluczową pozycją dla nauczających sztuki i parających się nią, którzy chcieliby
-> ekspolorować możliwości kodu jako medium twórczości. Pozycja ta służy równocześnie za przewodnik
+> Ksiażka ta jest kluczową pozycją dla nauczających sztuki i parających się nią, którzy chcieliby
+> eksplorować możliwości kodu jako medium twórczości. Pozycja ta służy równocześnie za przewodnik
 > dla inżynierów oprogramowania przechodzących od STEM do STEAM w ich sylabusie lub praktyce. 
 
-* przypis: angielski skrtót "STEM" odpowiada: "Science", "Technology", "Engineering" and "Math".
+* przypis: angielski skrót "STEM" odpowiada: "Science", "Technology", "Engineering" and "Math".
   Ale "stem" oznacza także "trzon" lub "rdzeń". "STEAM" dokłada "A" odpowiadające "Arts" - sztuce.
   Ale "steam" to także "para", często utożsamiana w języku angielskim z siłą lub energią, kojarzoną
   z siłą napędową rewolucji przemysłowej.
 
 #### Jedna strona:
-*[zazugeruj jakąś](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)*
+*[zasugeruj jakąś](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)*
 
-## Chciałabym/chciałbym tworzyć efekty wizualne na żywo
+## Chcę tworzyć efekty wizualne na żywo
 
 #### Jedno narzędzie: [Hydra](https://hydra.ojack.xyz/)
 
@@ -105,9 +105,9 @@ Zatem zaczynamy!
 > i dźwięki powiązane z kodowaniem na żywo (ang. live coding), animacjami, video i internetem.
 
 #### Jedna książka:
-*[zazugeruj jakąś](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)*
+*[zasugeruj jakąś](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)*
 
-#### Jadna strona: [Hydra examples](https://ccfest-2021-glitchme.glitch.me/) (
+#### Jedna strona: [Hydra examples](https://ccfest-2021-glitchme.glitch.me/) (
 
 > Mały zbiór szkiców (ang. sketches) w Hydrze stworzonych z myślą o warsztatach na CC Fest 2021
 > Creative Coding Festival. Możesz także edytować przykłady w swojej przeglądarce by zdobyć
@@ -115,19 +115,19 @@ Zatem zaczynamy!
 > [Hydra Book](https://hydra-book.naotohieda.com/) ("Księga Hydry")!
 
 
-## Jestem tancerką/tancerzem / choreografką/choreografem i chciałabym/chciałbym przygotować pokaz video!
+## Jestem tancerką/tancerzem / choreografką/choreografem i chcę przygotować pokaz video!
 
 #### Jedno narzędzie: [Isadora](https://troikatronix.com/)
 
 > Isadora jest używana przez wiele tancerek i wielu tancerzy w ich występach wzbogaconych o media -
 > generowanie wzorców geometrycznych, nakładanie sygnału video i używanie kamer dla interaktywności.
-> Nie muszisz nawet kodować - możesz stworzyć efekty wizualne i logikę po prostu łącząc elementy na
+> Nie musisz nawet kodować - możesz stworzyć efekty wizualne i logikę po prostu łącząc elementy na
 > ekranie. Tak więc cokolwiek znajdzie się na komputerze, może zostać użyte jako materiał.
-> Może to być nawet [taniec ze shackowaną stroną internetową](https://vimeo.com/175534187)?
+> Może to być nawet [taniec ze zhackowaną stroną internetową](https://vimeo.com/175534187)?
 
 #### Jedna artystka: [Joana Chicau](https://joanachicau.com/)
 
-> Joana Cichau jest graficzką, badaczką i koderką, doświadczoną w choreografii i performance'ach
+> Joana Cichau jest graficzką, badaczką i koderką, doświadczoną w choreografii i performansach
 > Jej metodologia eksploruje jak projektowanie i praktyki kodowania przenikają się głębiej z 
 > projektowaniem interfejsów i wyświetlaczy informacji — gdy wziąć pod uwagę myślenie 
 > choreograficzne, wcielenia i nowe możliwości percepcji ruchowej.
@@ -142,12 +142,12 @@ Zatem zaczynamy!
 > projekt badawczy z udziałem [Deborah Hay](http://scores.motionbank.org/dh/#/set/sets).
 
 
-## Chciałabym/Chciałbym robić gry!
+## Chcę robić gry!
 
 #### Jedno narzędzie: [Bitsy](https://ledoux.itch.io/bitsy)
 
 > Bitsy to mały edytor dla małych gier tudzież światów. Celem jest uczynienie tworzenia gier
-> prostym, gdzie możesz spacerować dokoła, rozmawiać z ludźmi i być gdzieś. Oto lista
+> prostym, gdzie możesz spacerować dookoła, rozmawiać z ludźmi i być gdzieś. Oto lista
 > [gier sporządzonych z Bitsy](https://itch.io/games/made-with-bitsy).
 
 #### Jeden artysta: [Pippin Barr](https://www.pippinbarr.com/category/games/)
@@ -160,7 +160,7 @@ Zatem zaczynamy!
 *[zasugeruj jakąś](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)*
 
 
-## O nie! Chciałabym/Chciałbym tworzyć jeszcze dziwniejsze gry!
+## O nie! Chcę tworzyć jeszcze dziwniejsze gry!
 
 #### Jedno narzędzie: [Wekinator](http://www.wekinator.org/)
 > Wekinator to wolnościowe, darmowe i otwarte oprogramowanie początkowo stworzone w 2009 przez
@@ -177,16 +177,16 @@ Zatem zaczynamy!
 
 #### Jedna strona: [Babycastles](https://twitter.com/Babycastles/)
 
-> "Babycastles to organizajcą non-profit promująca i wzmacniająca różnorodność głosów w kulturze
+> "Babycastles to organizajca non-profit promująca i wzmacniająca różnorodność głosów w kulturze
 > gier video."
-> Dołącz do ich [serwera Discor](https://discordapp.com/invite/sEPRX5Z)
+> Dołącz do ich [serwera Discord](https://discordapp.com/invite/sEPRX5Z)
 > lub obserwuj ich kanał [Twitch](https://www.twitch.tv/babycastles)!
 
-## Chciałabym/Chciałbym tworzyć sztukę w internecie
+## Chcę tworzyć sztukę w internecie
 
 #### Jedno narzędzie: [Glitch](https://glitch.com)
-> Glitch to świetna platforma dla szybkiego twaorzenia małych projektów webowych. Potrzebujesz
-> jedynie wiedzieć jak pisać w HTMLu, CCSie i JavaScripcie
+> Glitch to świetna platforma stosowna dla szybkiego tworzenia małych projektów webowych.
+> Potrzebujesz jedynie wiedzieć jak pisać w HTMLu, CCSie i JavaScripcie
 > (front end i [node.js](https://nodejs.org)).
 
 #### Jeden artysta: [Max Bittker](https://maxbittker.com/projects/)
@@ -196,7 +196,7 @@ Zatem zaczynamy!
 
 #### Jedna książka: [I Was Raised on the Internet](https://prestelpublishing.randomhouse.de/paperback/I-was-raised-on-the-Internet/Omar-Kholeif/Prestel-com/e546180.rhd) ("Wychowałem się na Internecie")
 > "Towarzysząca znaczącej wystawie w Muzeum Sztuki Współczesnej w
-> Chicago (Museum of Contemporary Art Chicago), ta anglogoia esejów i refleksji rzuca dyskursywne
+> Chicago (Museum of Contemporary Art Chicago), ta antologia esejów i refleksji rzuca dyskursywne
 > i krytyczne światło na pracę artystów zaangażowanych dziś w internet i technologie cyfrowe."
 
 #### Jedna strona: [Rhizome](https://rhizome.org/art/artbase/)
@@ -206,7 +206,7 @@ Zatem zaczynamy!
 > z całego świata, w ArtBase swe miejsce znalazły prace stosujące materiały takie jak
 > oprogramowanie, kod, strony internetowe, ruchome obrazy, gry i przeglądarki."
 > Zobacz także: [One Terabyte of Kilobyte age](https://anthology.rhizome.org/one-terabyte-of-kilobyte-age)
-> ("Jeden terabyte epoki kilobajtowej")
+> ("Jeden terabajt epoki kilobajtowej")
 
 ## Jestem studentką/studentem
 
@@ -226,13 +226,13 @@ Zatem zaczynamy!
 > mediów, bez więzów nakładanych nam przez istniejące narzędzia oprogramowania. Ta historia nie jest
 > zarezerwowana dla naukowców i inżynierów oprogramowania. Ta historia jest także dla Ciebie."
 
-> *Uwaga: książka ta postała w oparciu o Processing, ale możesz też znaleźć
+> *Uwaga: książka ta powstała w oparciu o Processing, ale możesz też znaleźć
 > [wersję p5.js wszystkich przykładów](https://github.com/shiffman/LearningProcessing-p5.js)
 > na Github.*
 
 
 #### Jedna strona: [The Coding Train](https://thecodingtrain.com/)
-> The Coding Train to "Kanał YouTube dedykowany przyjazym dla początkujących instruktażom
+> The Coding Train to "Kanał YouTube dedykowany przyjznym dla początkujących instruktażom
 > i wyzwaniom w kreatywnym kodowaniu". Założony został przez Daniela Schiffmana. Pytania zadawać
 > możesz na [serwerze Discord Coding Train](https://discord.gg/bzJQUyxPY5)
 
@@ -260,7 +260,7 @@ Zatem zaczynamy!
 ## Jestem architektką/architektem
 
 #### Jedno narzędzie: [Sverchok]((http://nikitron.cc.ua/sverchok_en.html)) dla [Blendera](https://www.blender.org/)
-> Sverchok to darmowy dodatek to otwartego (ang. Open Source) oprogramowania 3D pod nazwą Blender.
+> Sverchok to darmowy dodatek do otwartego (ang. Open Source) oprogramowania 3D pod nazwą Blender.
 > W Sverchok kształty 3D są tworzone poprzez przeciąganie komponentów (zwanych "węzeł" - ang.
 > "node") na płótno. Możesz łączyć te węzły by budować generatywne algorytmy produkujące więcej
 > i więcej złożonych trójwymiarowych kształtów. Oto [samouczek Sverchoka](https://www.youtube.com/watch?v=t56vQIaH7DI)
@@ -281,20 +281,20 @@ Zatem zaczynamy!
 #### Jedna strona: 
 *[zaproponuj jakąś](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)*
 
-## Jesem Artystką/Artystą
+## Jestem Artystką/Artystą
 
 #### Jedna noarzędzie: [TouchDesigner](https://derivative.ca/)
-> TouchDesigner to platforma dla tworzenia vizualnego wyposażająca Cię w narzędzia których
+> TouchDesigner to platforma dla tworzenia wizualnego wyposażająca Cię w narzędzia których
 > potrzebujesz dla tworzenia zapierających dech projektów operujących w czasie rzeczywistym. 
 > Niezależnie od tego czy tworzysz interaktywne systemy mediów, projekcje architektoniczne,
-> wizuale do muzyki na żywo, czy też po prostu prototypujsze na prędce swój najświeższy kreatywny
+> wizuale do muzyki na żywo, czy też po prostu prototypujesz na prędce swój najświeższy kreatywny
 > impuls, TouchDesigner to platforma która może wszystko do uczynić.
 
 #### Jedna artystka: [Rosa Menkman](https://beyondresolution.info/)
 > "Moja praca skupia się na artefaktach szumu wynikłych ze skutków ubocznych zarówno
 > w mediach analogowych jak i cyfrowych (takich jak zakłócenia (ang. glitch) a także artefakty
-> kodowania sygnału i sprzężeń zwrotnych). Myślę że artefakty wynikłe z tych stutków ubocznych
-> umożliwić mogą istony wgląd w tę, w innym wypadku przesłoniętą, alchemię standardyzacji poprzez
+> kodowania sygnału i sprzężeń zwrotnych). Myślę że artefakty wynikłe z tych skutków ubocznych
+> umożliwić mogą istotny wgląd w tę, w innym wypadku przesłoniętą, alchemię standaryzacji poprzez
 > rozdzielczości."
 
 #### Jedna książka: 
@@ -307,14 +307,14 @@ Zatem zaczynamy!
 > bieżąco z informacjami ze sceny sztuki medialnej.
 
 
-## Jestem poetą
+## Jestem poetką/poetą
 
 #### Jedno narzędzie: [Thonny a Python IDE for beginners](http://thonny.org) ("Thonny - Pythonowskie zintegrowane środowisko programistyczne dla początkujących")
 
 #### Jedna artystka: [Allison Parrish](https://www.decontextualize.com)
 
 > Allison Parrish to amerykańska poetka, inżynierka oprogramowania, kreatywna koderka i projektantka
-> gier, postrzegana jako jedna z najbardziej wpływowych wczesnych twórcków kreatywnych, literackich
+> gier, postrzegana jako jedna z najbardziej wpływowych wczesnych twórców kreatywnych, literackich
 > botów Twittera. Nazwana została "Najlepszą twórczynią botów poetyckich" przez The Village Voice
 > w roku 2016.
 
@@ -329,7 +329,7 @@ Zatem zaczynamy!
 
 #### Jedno narzędzie: [p5.js](https://p5js.org/)
 > "p5.js" to biblioteka (ang. library) JavaScript dla kodowania kreatywnego, skupiona na uczynieniu
-> progamowania dostępnym i inkluzywnym dla artystów, projektantów, edukatorów, początkujących, 
+> programowania dostępnym i inkluzywnym dla artystów, projektantów, edukatorów, początkujących, 
 > w zasadzie każdego!"
 
 #### Jeden artysta: [Raven Kwok](https://ravenkwok.com/)
@@ -347,7 +347,7 @@ Zatem zaczynamy!
 > [Przykłady kodu](http://www.generative-gestaltung.de/2/) [en] które mogą być wyświetlane i
 > edytowane w Twojej przeglądarce za darmo na stronie internetowej książki.
 
-#### One website:
+#### Jedna strona:
 *[zaproponuj jakąś](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)*
 
 ## Chcę mieć robota rysującego
@@ -366,20 +366,20 @@ Zatem zaczynamy!
 #### Jedna książka:
 *[zaproponuj jakąś](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)*
 
-#### One website: [DrawingBots.net](https://drawingbots.net/)
+#### Jedna strona: [DrawingBots.net](https://drawingbots.net/)
 > "Misja DrawingBots.net (ang. rysujące boty .sieć) to bycie centralnym miejscem w sieci dla
 > odkrywania świata robotów rysujących, zaczerpnięcia inspiracji oraz rozmów z innymi entuzjastami
 > robotów rysujących.
 
 
-## Chciałabym/chciałbym zbudować robota!
+## Chcę zbudować robota!
 
 #### Jedno narzędzie: [Arduino](https://www.arduino.cc/)
 > Stworzenie robota który porusza się o własnych siłach stanowi spore wyzwanie badawcze!
 > Ale możesz też zacząć z prostym przykładem. Może po prostu połączysz silnik i czujnik światła
 > do [Arduino](https://www.arduino.cc/) i poruszysz silnikiem kiedy czujnik jest zakryty?
 > Ardruino to niewielka płytka elektroniczna która jest w stanie odczytywać środowisko
-> w którym się znajduje i wpływać na otoczenie poprzez kotrolę światełek, silniczków i innych
+> w którym się znajduje i wpływać na otoczenie poprzez kontrolę światełek, silniczków i innych
 > siłowników.
 
 #### Jeden artysta: [So Kanno](http://kanno.so/)
@@ -398,16 +398,15 @@ Zatem zaczynamy!
 *[zaproponuj jakąś](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)*
 
 
-
 ## Skoro wiem już jak malować linie i koła, co potem?
 
 #### Jedno narzędzie: Twitter/Instagram
-> Publikowanie Twoich prac na Twitterze/Instagramie to wspaniały sposób na uzyskanie informacji
-> zwrotnej. Nie wachaj się otagować [@CreativeCodeBLN](https://twitter.com/CreativeCodeBLN/),
+> Publikowanie własnych prac na Twitterze/Instagramie to wspaniały sposób na uzyskanie informacji
+> zwrotnej. Nie wahaj się otagować [@CreativeCodeBLN](https://twitter.com/CreativeCodeBLN/),
 > co da nam możliwość podzielenia się owocami Twojej pracy z całą społecznością!
 
 #### Jedna artystka: [Saskia Freeke](https://twitter.com/sasj_nl)
-> Saskia Freeke publikuje codziennie jadną pracę wykonaną z pomocą Processing począwszy od 1go
+> Saskia Freeke publikuje codziennie jedną pracę wykonaną z pomocą Processing począwszy od 1go
 > Stycznia 2015.
 
 #### Jedna książka:
