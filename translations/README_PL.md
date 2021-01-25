@@ -1,3 +1,30 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Czym jest Kodowanie Kreatywne?](#czym-jest-kodowanie-kreatywne)
+- [Skąd się to wzięło?](#sk%C4%85d-si%C4%99-to-wzi%C4%99%C5%82o)
+- [Dlaczego powstał ten dokument?](#dlaczego-powsta%C5%82-ten-dokument)
+  - [Chcę tworzyć muzykę!](#chc%C4%99-tworzy%C4%87-muzyk%C4%99)
+  - [Chcę wykorzystać moje istniejące umiejętności programowania, by tworzyć sztukę](#chc%C4%99-wykorzysta%C4%87-moje-istniej%C4%85ce-umiej%C4%99tno%C5%9Bci-programowania-by-tworzy%C4%87-sztuk%C4%99)
+  - [Chcę tworzyć efekty wizualne na żywo](#chc%C4%99-tworzy%C4%87-efekty-wizualne-na-%C5%BCywo)
+  - [Jestem tancerką/tancerzem / choreografką/choreografem i chcę przygotować pokaz video!](#jestem-tancerk%C4%85tancerzem--choreografk%C4%85choreografem-i-chc%C4%99-przygotowa%C4%87-pokaz-video)
+  - [Chcę robić gry!](#chc%C4%99-robi%C4%87-gry)
+  - [O nie! Chcę tworzyć jeszcze dziwniejsze gry!](#o-nie-chc%C4%99-tworzy%C4%87-jeszcze-dziwniejsze-gry)
+  - [Chcę tworzyć sztukę w internecie](#chc%C4%99-tworzy%C4%87-sztuk%C4%99-w-internecie)
+  - [Jestem studentką/studentem](#jestem-studentk%C4%85studentem)
+  - [Jestem rodzicem / dzieckiem](#jestem-rodzicem--dzieckiem)
+  - [Jestem architektką/architektem](#jestem-architektk%C4%85architektem)
+  - [Jestem Artystką/Artystą](#jestem-artystk%C4%85artyst%C4%85)
+  - [Jestem poetką/poetą](#jestem-poetk%C4%85poet%C4%85)
+  - [Jestem projektantem](#jestem-projektantem)
+  - [Chcę mieć robota rysującego](#chc%C4%99-mie%C4%87-robota-rysuj%C4%85cego)
+  - [Chcę zbudować robota!](#chc%C4%99-zbudowa%C4%87-robota)
+  - [Skoro wiem już jak malować linie i koła, co potem?](#skoro-wiem-ju%C5%BC-jak-malowa%C4%87-linie-i-ko%C5%82a-co-potem)
+- [Dzięki!](#dzi%C4%99ki)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 > Punkt wyjścia Twej podróży w świat Kodowania Kreatywnego
 
