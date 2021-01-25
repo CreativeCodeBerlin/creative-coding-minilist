@@ -133,7 +133,7 @@ Zatem zaczynamy!
 > choreograficzne, wcielenia i nowe możliwości percepcji ruchowej.
 
 #### Jedna książka:
-*[zadugeruj jakąś](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)*
+*[zasugeruj jakąś](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)*
 
 #### Jedna strona: [Motion Bank](http://motionbank.org/)
 
