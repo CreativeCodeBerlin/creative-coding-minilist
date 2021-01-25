@@ -1,4 +1,4 @@
-[Français](./README_FR.md) | [English](../README.md) | | [Polski](./README_PL.md)
+[Français](./README_FR.md) | [English](../README.md) | [Polski](./README_PL.md)
 
 > ここはクリエイティブ・コーディングの旅の出発点です
 
