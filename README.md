@@ -1,4 +1,4 @@
-[Français](./translations/README_FR.md) | [日本語](./translations/README_JA.md)
+[Français](./translations/README_FR.md) | [日本語](./translations/README_JA.md) | [Polski](./translations/README_PL.md)
 
 > A starting point for your creative code journey
 
