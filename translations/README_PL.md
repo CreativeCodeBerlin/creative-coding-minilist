@@ -61,6 +61,8 @@ i jedną stronę internetową, aby umożliwić Ci rozpoczęcie Twej podróży.
 
 Zatem zaczynamy!
 
+<!-- START doctoc -->
+<!-- END doctoc -->
 
 ## Chcę tworzyć muzykę!
 
