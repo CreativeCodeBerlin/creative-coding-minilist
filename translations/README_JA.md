@@ -2,7 +2,7 @@
 
 > ここはクリエイティブ・コーディングの旅の出発点です
 
-（本記事は [creative coding minilist (8dbea9db)](https://github.com/CreativeCodeBerlin/creative-coding-minilist/tree/8dbea9db154e61497afac58e8c17562223b182c7) の日本語版フォークです。原文をもとにしているため、日本語のウェブサイトや本などでおすすめがあればぜひ書き加えてください）
+（本記事は [creative coding minilist (fb038f65)](https://github.com/CreativeCodeBerlin/creative-coding-minilist/commit/fb038f65bd0ab82eae565927f5b8a8aef1299166) の日本語版フォークです。原文をもとにしているため、日本語のウェブサイトや本などでおすすめがあればぜひ書き加えてください）
 
 # クリエイティブ・コーディングとは？
 
@@ -136,8 +136,8 @@
 #### おすすめのアーティスト：[Marie Claire LeBlanc Flanagan](https://marieflanagan.com/)
 > "人のためにものをデザインし、構築します。遊びの体験、インスタレーション、実験的なビデオゲーム、物語、コミュニティ、空間、イベントを構築する。"
 
-#### おすすめの一冊：
-[*おすすめの一冊があればこちらに記入してください！*](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)
+#### おすすめの一冊：[Rise of the Videogame Zinesters](https://www.amazon.com/Rise-Videogame-Zinesters-Drop-outs-Housewives/dp/1609803728/ref=sr_1_2?dchild=1&qid=1611610821&refinements=p_27%3AAnna+Anthropy&s=books&sr=1-2&text=Anna+Anthropy)
+> "クリティカルなエッセイ、マニフェスト、DIYガイドなど、前代未聞の内容が満載の『Rise of the Videogame Zinesters』は、数十億ドル規模のビデオゲーム業界がなぜ変革を必要としているのか、そして新世代のアーティストたちがどのようにして変革を成し遂げるのかについて書かれています。"
 
 #### おすすめのサイト：[Babycastles](https://twitter.com/Babycastles/)
 > Babycastlesは、ビデオゲーム文化の多様な声を育成し、増幅する非営利団体です。[Discordサーバー](https://discordapp.com/invite/sEPRX5Z)に参加するか、Twitchでフォローしてください。
@@ -216,10 +216,21 @@
 #### おすすめの一冊：
 [*おすすめの一冊があればこちらに記入してください！*](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)
 
-
 #### おすすめのサイト：[Creative Applications](https://www.creativeapplications.net/)
 > クリエイティブ・アプリケーションズは、アート、メディア、テクノロジーの交差点に関連するプロジェクト、ツール、プラットフォームを共有しています。インスピレーションを得たり、メディアアートシーンの最新情報を入手したりするのに最適な場所です。
 
+## コードで詩を書きたい
+#### おすすめのツール：[Thonny](http://thonny.org/)
+> 初心者向けのPython IDE
+
+#### おすすめのアーティスト：[Allison Parrish](https://www.decontextualize.com/)
+> Allison Parrishは、アメリカの詩人、ソフトウェアエンジニア、クリエイティブコーダー、ゲームデザイナーであり、クリエイティブで文学的なツイッターボットの最初期の著名なクリエイターの一人として注目されています。彼女は2016年にThe Village Voiceで「Best Maker of Poetry Bots」に選ばれました。
+
+#### おすすめの一冊：[Exploratory Programming for the Arts and Humanities](https://mitpress.mit.edu/books/exploratory-programming-arts-and-humanities)
+> 探求的・創造的なプログラミングを学びたい人のための本で、演習やプロジェクトを交えて、実践的に学ぶことができるようになっています。
+
+#### おすすめの一冊：[Code Poetry](http://code-poetry.com/)
+> "このウェブサイトは、12の異なるプログラミング言語を用いて書かれたコード・ポエムのコレクションです。すべての詩は、コンパイルして実行することでそれ自体がビジュアルを生成する有効なプログラムでもあります。"
 
 ## デザイナーでコーディングを始めたい
 
