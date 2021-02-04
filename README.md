@@ -140,8 +140,8 @@ If you use Ableton Live, you can make instruments by [Max4Live](https://www.able
 #### One artist: [Marie Claire LeBlanc Flanagan](https://marieflanagan.com/)
 > "I design and build things for people. I build play experiences, installations, experimental video games, stories, communities, spaces, and events."
 
-#### One book:
-*[suggest one](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)*
+#### One book: [Rise of the Videogame Zinesters](https://www.amazon.com/Rise-Videogame-Zinesters-Drop-outs-Housewives/dp/1609803728/ref=sr_1_2?dchild=1&qid=1611610821&refinements=p_27%3AAnna+Anthropy&s=books&sr=1-2&text=Anna+Anthropy)
+> "Part critical essay, part manifesto, part DIY guide, and altogether unprecedented, Rise of the Videogame Zinesters shows why the multi-billion dollar videogame industry needs to change—and how a new generation of artists can change it."
 
 #### One website: [Babycastles](https://twitter.com/Babycastles/)
 > "Babycastles is a non-profit fostering and amplifying diverse voices in videogame culture." Join their [Discord server](https://discordapp.com/invite/sEPRX5Z) or follow them on [Twitch](https://www.twitch.tv/babycastles)!
