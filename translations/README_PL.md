@@ -51,7 +51,7 @@ Zatem zaczynamy!
   - [Jestem architektką/architektem](#jestem-architektk%C4%85architektem)
   - [Jestem Artystką/Artystą](#jestem-artystk%C4%85artyst%C4%85)
   - [Jestem poetką/poetą](#jestem-poetk%C4%85poet%C4%85)
-  - [Jestem projektantem](#jestem-projektantem)
+  - [Jestem projektantką/projektantem](#jestem-projektantk%C4%85projektantem)
   - [Chcę mieć robota rysującego](#chc%C4%99-mie%C4%87-robota-rysuj%C4%85cego)
   - [Chcę zbudować robota!](#chc%C4%99-zbudowa%C4%87-robota)
   - [Skoro wiem już jak malować linie i koła, co potem?](#skoro-wiem-ju%C5%BC-jak-malowa%C4%87-linie-i-ko%C5%82a-co-potem)
