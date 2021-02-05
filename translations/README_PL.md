@@ -351,7 +351,7 @@ Zatem zaczynamy!
 #### Jedna strona:
 *[zasugeruj jakąś](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)*
 
-## Jestem projektantem
+## Jestem projektantką/projektantem
 
 #### Jedno narzędzie: [p5.js](https://p5js.org/)
 > "p5.js" to biblioteka (ang. library) JavaScript dla kodowania kreatywnego, skupiona na uczynieniu
@@ -446,7 +446,7 @@ Zatem zaczynamy!
 # Dzięki!
 
 Ta lista jest tworzona i aktualizowana przez [Raphaëla de Courville'a](https://twitter.com/sableRaph)
-i [Naoto Hiédę](https://twitter.com/naoto_hieda) dla
+i [Naota Hiédę](https://twitter.com/naoto_hieda) dla
 [Creative Code Berlin](http://creativecode.berlin/) jako zasób dla ludzi przychodzących na nasze
 spotkania odbywające się dwa razy w miesiącu. Mamy nadzieję że będzie ona także pomocna innym. :)
 
