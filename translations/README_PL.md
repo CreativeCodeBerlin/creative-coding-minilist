@@ -196,8 +196,10 @@ Zatem zaczynamy!
 > "Projektuję i buduję rzeczy dla ludzi. Buduję doświadczenia zabawy, instalacje, eksperymentalne
 > gry video, historie, społeczności, przestrzenie i wydarzenia."
 
-#### Jedna książka:
-*[zasugeruj jakąś](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)*
+#### Jedna książka: [Rise of the Videogame Zinesters](https://www.amazon.com/Rise-Videogame-Zinesters-Drop-outs-Housewives/dp/1609803728/ref=sr_1_2?dchild=1&qid=1611610821&refinements=p_27%3AAnna+Anthropy&s=books&sr=1-2&text=Anna+Anthropy) "Wzlot zinerów gier wideo"
+> "Częsciowo krytyczny esej, częsciowo manifest, częsciowo przewdnik Zrób To Sam (ang. DIY),
+> wszystko zaś razem bez precedensu, Wzlot zinerów gier video pokazuje dlaczego multi-miliardowy
+> przemysł potrzebuje zmiany, i jak nowe pokolenie artystów może go zmienić."
 
 #### Jedna strona: [Babycastles](https://twitter.com/Babycastles/)
 
