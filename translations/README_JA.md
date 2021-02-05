@@ -2,7 +2,7 @@
 
 > ここはクリエイティブ・コーディングの旅の出発点です
 
-（本記事は [creative coding minilist (8dbea9db)](https://github.com/CreativeCodeBerlin/creative-coding-minilist/tree/8dbea9db154e61497afac58e8c17562223b182c7) の日本語版フォークです。原文をもとにしているため、日本語のウェブサイトや本などでおすすめがあればぜひ書き加えてください）
+（本記事は [creative coding minilist (fb038f65)](https://github.com/CreativeCodeBerlin/creative-coding-minilist/commit/fb038f65bd0ab82eae565927f5b8a8aef1299166) の日本語版フォークです。原文をもとにしているため、日本語のウェブサイトや本などでおすすめがあればぜひ書き加えてください）
 
 # クリエイティブ・コーディングとは？
 
@@ -50,7 +50,7 @@
 > Malitzin Cortes a.k.a. CNDSDの作品には、ライブコーディング、ライブシネマ、インスタレーション、バーチャルリアリティ、ジェネレーティブアート、サウンドデザイン、実験音楽、サウンドアートが含まれます。Malitzinの[TidalCyclesブログでのインタビュー](https://blog.tidalcycles.org/cndsd/)を読んでみてください。
 
 #### おすすめの一冊：
-*おすすめの一冊があればこちらに記入してください！*
+[*おすすめの一冊があればこちらに記入してください！*](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)
 
 #### おすすめのサイト：[TidalCyclesチュートリアル](https://tidalcycles.org/index.php/Tutorial)
 > このガイドでは、簡単なパターンから始めて、複雑な構成に至るまでのすべての方法を説明します。
@@ -92,7 +92,7 @@
 > [Flor de Fuego](https://twitter.com/flordefuego4)は、デジタルイメージとメディアを調査し、ライブコーディング、アニメーション、ビデオ、インターネットに関連したイメージとサウンドを制作しています。"
 
 #### おすすめの一冊：
-*おすすめの一冊があればこちらに記入してください！*
+[*おすすめの一冊があればこちらに記入してください！*](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)
 
 #### おすすめのサイト：[Hydra examples](https://ccfest-2021-glitchme.glitch.me/)
 > CC Fest 2021 Creative Coding Festivalでのワークショップのために作成したHydraのスケッチの短いコレクションです。基本的なことを学ぶために、ブラウザで例を編集することができます。
@@ -107,7 +107,7 @@
 > Joana Chicauは、グラフィックデザイナー、研究者、コーダーであり、振付とパフォーマンスのバックグラウンドを持っています。彼女の方法論は、デザインとコーディングの実践がインターフェイスデザインや情報表示にどのように深く干渉しているかを探求しています。
 
 #### おすすめの一冊：
-*おすすめの一冊があればこちらに記入してください！*
+[*おすすめの一冊があればこちらに記入してください！*](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)
 
 #### おすすめのサイト：[モーションバンク](http://motionbank.org/)
 > モーションバンクはフォーサイス・カンパニーのスピンオフで、デジタルメディアを介して振付を記録する新しい方法に焦点を当てています。ウェブサイトでは、[Deborah Hay](http://scores.motionbank.org/dh/#/set/sets)との研究プロジェクトなど、過去のプロジェクトのアーカイブが公開されています。
@@ -122,10 +122,10 @@
 > Pippin Barrはゲームを作ります。
 
 #### おすすめの一冊：
-*おすすめの一冊があればこちらに記入してください！*
+[*おすすめの一冊があればこちらに記入してください！*](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)
 
 #### おすすめのサイト：
-*おすすめのサイトがあればこちらに記入してください！*
+[*おすすめのサイトがあればこちらに記入してください！*](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)
 
 
 ## もっと変なゲームを作りたい!
@@ -136,8 +136,8 @@
 #### おすすめのアーティスト：[Marie Claire LeBlanc Flanagan](https://marieflanagan.com/)
 > "人のためにものをデザインし、構築します。遊びの体験、インスタレーション、実験的なビデオゲーム、物語、コミュニティ、空間、イベントを構築する。"
 
-#### おすすめの一冊：
-*おすすめの一冊があればこちらに記入してください！*
+#### おすすめの一冊：[Rise of the Videogame Zinesters](https://www.amazon.com/Rise-Videogame-Zinesters-Drop-outs-Housewives/dp/1609803728/ref=sr_1_2?dchild=1&qid=1611610821&refinements=p_27%3AAnna+Anthropy&s=books&sr=1-2&text=Anna+Anthropy)
+> "クリティカルなエッセイ、マニフェスト、DIYガイドなど、前代未聞の内容が満載の『Rise of the Videogame Zinesters』は、数十億ドル規模のビデオゲーム業界がなぜ変革を必要としているのか、そして新世代のアーティストたちがどのようにして変革を成し遂げるのかについて書かれています。"
 
 #### おすすめのサイト：[Babycastles](https://twitter.com/Babycastles/)
 > Babycastlesは、ビデオゲーム文化の多様な声を育成し、増幅する非営利団体です。[Discordサーバー](https://discordapp.com/invite/sEPRX5Z)に参加するか、Twitchでフォローしてください。
@@ -185,10 +185,10 @@
 > Stefania Drugaの仕事は、AIリテラシーと、子供や親のための新しいコンピューティングプラットフォームの設計に焦点を当てています。彼女は、「やって遊ぶことで学ぶ」ことを可能にする世界的な組織「Hackidemia」の生みの親である。
 
 #### おすすめの一冊：
-*おすすめの一冊があればこちらに記入してください！*
+[*おすすめの一冊があればこちらに記入してください！*](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)
 
 #### おすすめのサイト：
-*おすすめのサイトがあればこちらに記入してください！*
+[*おすすめのサイトがあればこちらに記入してください！*](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)
 
 
 ## 建築家でコードに興味がある
@@ -203,7 +203,7 @@
 > 建築家とデザイナーのための数学的変換へのガイド*は、複雑な形状や幾何学を生成するために単純な数式を使用する例がいっぱいの、美しくデザインされた本です。
 
 #### おすすめのサイト：
-*おすすめのサイトがあればこちらに記入してください！*
+[*おすすめのサイトがあればこちらに記入してください！*](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)
 
 ## アーティストでコーディングを始めたい
 
@@ -214,12 +214,23 @@
 > 私の研究は、アナログとデジタルの両方のメディアにおける事故（グリッチやエンコーディング、フィードバック・アーティファクトなど）から生じるノイズ・アーティファクトに焦点を当てています。これらの事故の結果として生じるアーティファクトは、解決策を介した標準化の曖昧な錬金術についての重要な洞察を促進することができると思います。"
 
 #### おすすめの一冊：
-*おすすめの一冊があればこちらに記入してください！*
-
+[*おすすめの一冊があればこちらに記入してください！*](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)
 
 #### おすすめのサイト：[Creative Applications](https://www.creativeapplications.net/)
 > クリエイティブ・アプリケーションズは、アート、メディア、テクノロジーの交差点に関連するプロジェクト、ツール、プラットフォームを共有しています。インスピレーションを得たり、メディアアートシーンの最新情報を入手したりするのに最適な場所です。
 
+## コードで詩を書きたい
+#### おすすめのツール：[Thonny](http://thonny.org/)
+> 初心者向けのPython IDE
+
+#### おすすめのアーティスト：[Allison Parrish](https://www.decontextualize.com/)
+> Allison Parrishは、アメリカの詩人、ソフトウェアエンジニア、クリエイティブコーダー、ゲームデザイナーであり、クリエイティブで文学的なツイッターボットの最初期の著名なクリエイターの一人として注目されています。彼女は2016年にThe Village Voiceで「Best Maker of Poetry Bots」に選ばれました。
+
+#### おすすめの一冊：[Exploratory Programming for the Arts and Humanities](https://mitpress.mit.edu/books/exploratory-programming-arts-and-humanities)
+> 探求的・創造的なプログラミングを学びたい人のための本で、演習やプロジェクトを交えて、実践的に学ぶことができるようになっています。
+
+#### おすすめの一冊：[Code Poetry](http://code-poetry.com/)
+> "このウェブサイトは、12の異なるプログラミング言語を用いて書かれたコード・ポエムのコレクションです。すべての詩は、コンパイルして実行することでそれ自体がビジュアルを生成する有効なプログラムでもあります。"
 
 ## デザイナーでコーディングを始めたい
 
@@ -233,7 +244,7 @@
 > 本書は、色、形、タイポグラフィ、イメージの可能性を探るビジュアルな実験を作成するためのステップバイステップのチュートリアルで、コーディング戦略のジャンプスタートです。ブラウザで閲覧・編集できる[コード例](http://www.generative-gestaltung.de/2/)は、この本のウェブサイトで無料で公開されています。
 
 #### おすすめのサイト：
-*おすすめのサイトがあればこちらに記入してください！*
+[*おすすめのサイトがあればこちらに記入してください！*](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)
 
 ## ドローイング・ロボットが欲しい
 
@@ -244,7 +255,7 @@
 > "Sougwen Chungの作品は、人間とシステムの力学を理解するためのアプローチとして、手によるマーク・バイ・ハンドと機械によるマーク・バイ・マシンを探求しています。"
 
 #### おすすめの一冊：
-*おすすめの一冊があればこちらに記入してください！*
+[*おすすめの一冊があればこちらに記入してください！*](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)
 
 #### おすすめのサイト：[DrawingBots.net](https://drawingbots.net/)
 > "DrawingBots.netのミッションは、お絵かきロボットの世界を発見し、インスピレーションを得て、他のお絵かきロボット愛好家と話すためのウェブ上の中心的な場所になることです。"
@@ -263,7 +274,7 @@
 > *Arduino Workshop: A Hands-On Introduction with 65 Projects*は、Arduinoの世界を知るための入門書です。システムや電子部品、コンセプトの概要から始まり、デジタル体温計やGPSロガーなどの実用的な使い方、Arduinoを使った様々な電子玩具やゲームなどを紹介しています。
 
 #### おすすめのサイト：
-*おすすめのサイトがあればこちらに記入してください！*
+[*おすすめのサイトがあればこちらに記入してください！*](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)
 
 
 ## 線と円の描き方は分かったけど、次は何をしたらいいですか？
@@ -275,7 +286,7 @@
 > Saskia Freekeさんは、2015年1月1日から毎日Processingで作った作品を投稿しています。
 
 #### おすすめの一冊：
-*おすすめの一冊があればこちらに記入してください！*
+[*おすすめの一冊があればこちらに記入してください！*](https://github.com/CreativeCodeBerlin/creative-coding-minilist/issues)
 
 #### おすすめのサイト：[OpenProcessing](https://www.openprocessing.org/)
 > OpenProcessing は、Processing と p5.js クリエイターのためのオンラインプラットフォームです。このオンラインエディタを使ってスケッチを作成し、コミュニティで共有することができます。
