@@ -259,7 +259,7 @@ Zatem zaczynamy!
 
 #### Jedna strona: [The Coding Train](https://thecodingtrain.com/)
 > The Coding Train to "Kanał YouTube dedykowany przyjznym dla początkujących instruktażom
-> i wyzwaniom w kreatywnym kodowaniu". Założony został przez Daniela Schiffmana. Pytania zadawać
+> i wyzwaniom w kreatywnym kodowaniu". Założony został przez Daniela Shiffmana. Pytania zadawać
 > możesz na [serwerze Discord Coding Train](https://discord.gg/bzJQUyxPY5)
 
 
