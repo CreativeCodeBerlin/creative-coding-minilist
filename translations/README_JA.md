@@ -174,7 +174,7 @@
 
 
 #### おすすめのサイト：[The Coding Train](https://thecodingtrain.com/) 
-> "初心者に優しいクリエイティブなコーディングのチュートリアルやチャレンジに特化したYouTubeチャンネル" Daniel Schiffmanによって作成されました。[Coding Train Discordサーバー](https://discord.gg/bzJQUyxPY5)で質問することができます!
+> "初心者に優しいクリエイティブなコーディングのチュートリアルやチャレンジに特化したYouTubeチャンネル" Daniel Shiffmanによって作成されました。[Coding Train Discordサーバー](https://discord.gg/bzJQUyxPY5)で質問することができます!
 
 
 ## こどもにプログラムを教えたい
