@@ -177,7 +177,7 @@ If you use Ableton Live, you can make instruments by [Max4Live](https://www.able
 
 
 #### One website: [The Coding Train](https://thecodingtrain.com/) 
-> The Coding Train is "a YouTube channel dedicated to beginner-friendly creative coding tutorials and challenges." It was created by Daniel Schiffman. You can ask questions on the [Coding Train Discord server](https://discord.gg/bzJQUyxPY5)!
+> The Coding Train is "a YouTube channel dedicated to beginner-friendly creative coding tutorials and challenges." It was created by Daniel Shiffman. You can ask questions on the [Coding Train Discord server](https://discord.gg/bzJQUyxPY5)!
 
 
 ## I'm a parent / kid
